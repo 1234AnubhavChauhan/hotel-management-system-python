@@ -1,4 +1,4 @@
-# Hotel Management System(python)
+# Hotel Management System (python)
 CLI-based Hotel Management System using Python with room booking and file handling
 # Design Choices
 
